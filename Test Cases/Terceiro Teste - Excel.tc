@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Terceiro Teste - Excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09f0fc73-5b71-466a-a0d8-c8382c1a7217</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>877843ef-46d0-4a77-886e-e64033ad6dff</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d341d959-5bb5-44cf-9114-8efbf097caf6</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
